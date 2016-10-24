@@ -14,6 +14,8 @@ public class DamienApp{
 // ooooohhhh ouch!!!
 // more useless notes
 		//trying to break git
+		//oooops guthub
+		
 		//declare objects/instantiable class(creating an instance
 		Damien damo; //(creating an instance)
 		damo = new Damien();
